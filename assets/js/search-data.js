@@ -171,7 +171,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/eugene_dongmin_bang", "_blank");
+          window.open("https://www.linkedin.com/in/eugene-dongmin-bang", "_blank");
         },
       },{
         id: 'social-scholar',
