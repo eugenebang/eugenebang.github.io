@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-publications",
+  },{id: "nav-publications",
           title: "publications",
           description: "(*) denote for equal contribution.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
+          },
+        },{id: "nav-news",
+          title: "news",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
           },
         },{id: "nav-vitae",
           title: "vitae",
@@ -36,6 +36,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
           },
         },{id: "post-arc-s-virtual-cell-challenge-accelerating-drug-discovery-with-ai-models",
         
@@ -81,7 +88,12 @@ ninja.data = [{
             },},{id: "news-our-work-on-computational-drug-repurposing-has-been-accepted-to-nature-communications",
           title: '🎉 Our work on computational drug repurposing has been accepted to Nature Communications!...',
           description: "",
-          section: "News",},{id: "news-two-papers-on-multi-modal-molecular-representation-learning-accepted",
+          section: "News",},{id: "news-reached-100-citations-on-google-scholar-today",
+          title: '🎉 Reached 100 citations on Google Scholar Today! 📈',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_post_100citation/";
+            },},{id: "news-two-papers-on-multi-modal-molecular-representation-learning-accepted",
           title: '🎉 Two Papers on Multi-modal Molecular Representation Learning Accepted!',
           description: "",
           section: "News",handler: () => {
