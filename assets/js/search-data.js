@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Teaching and Mentoring Experiences",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-arc-s-virtual-cell-challenge-accelerating-drug-discovery-with-ai-models",
+        },{id: "post-insilico-39-s-rentosertib-a-turning-point-for-ai-in-drug-discovery",
+        
+          title: "💊🤖 Insilico&#39;s Rentosertib: A Turning Point for AI in Drug Discovery",
+        
+        description: "Insilico Medicine&#39;s Rentosertib passes a phase 2a clinical trial for idiopathic pulmonary fibrosis (IPF).",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Rentosertib/";
+          
+        },
+      },{id: "post-arc-s-virtual-cell-challenge-accelerating-drug-discovery-with-ai-models",
         
           title: "🚀 Arc’s Virtual Cell Challenge: Accelerating Drug Discovery with AI Models",
         
@@ -97,7 +108,7 @@ ninja.data = [{
           title: '🎉 Two Papers on Multi-modal Molecular Representation Learning Accepted!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_1%20copy/";
+              window.location.href = "/news/2025_multi-modal_learning/";
             },},{id: "news-two-ismb-eccb-2025-papers-accepted-a-small-win-for-ai-x-drug-discovery",
           title: '🎉 Two ISMB/ECCB 2025 Papers Accepted! A Small Win for AI x Drug...',
           description: "",
