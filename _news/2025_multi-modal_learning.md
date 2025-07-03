@@ -6,8 +6,8 @@ inline: false
 related_posts: false
 ---
 
-✅ One on ATP binding site prediction accepted at *JCIM*\\
-✅ One on toxicity prediction accepted at *JCI*
+✅ [One paper on ATP binding site prediction accepted by *JCIM*](https://pubs.acs.org/doi/10.1021/acs.jcim.4c01255)\\
+✅ [One paper on toxicity prediction accepted by *JCI*](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-025-01012-5)
 
 It seems like **integration of 3D information is becoming essential** for advancing these tasks. 🧩
 
