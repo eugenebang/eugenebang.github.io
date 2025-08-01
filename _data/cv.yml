@@ -49,6 +49,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - "<b>Youlchon AI Young Researcher Award</b> for outstanding research in AI applications (AI+X)"
     - year: 2024
       items:
         - "<b>Research Grant</b>: Advanced Medical Researcher Training Support Program (Funded by Seoul National University)"
