@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-insilico-39-s-rentosertib-a-turning-point-for-ai-in-drug-discovery",
+        },{id: "post-virtual-labs-are-here-and-they-re-doing-real-science",
+        
+          title: "🤯 Virtual Labs Are Here, and They’re Doing Real Science",
+        
+        description: "Stanford scientists built a team of AI agents—a PI, immunologist, ML scientist, critic, etc.—each powered by GPT-4o, capable of holding team meetings, proposing experiments, writing code, and even requesting new tools.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/VirtualLab/";
+          
+        },
+      },{id: "post-insilico-39-s-rentosertib-a-turning-point-for-ai-in-drug-discovery",
         
           title: "💊🤖 Insilico&#39;s Rentosertib: A Turning Point for AI in Drug Discovery",
         
@@ -125,6 +136,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
+            },},{id: "news-honored-to-receive-the-2025-youlchon-ai-young-researcher-award",
+          title: '🏅 Honored to Receive the 2025 Youlchon AI Young Researcher Award!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025_youlchon/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
