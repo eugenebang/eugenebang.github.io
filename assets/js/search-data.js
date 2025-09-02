@@ -141,7 +141,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025_youlchon/";
-            },},{id: "projects-project-1",
+            },},{id: "news-grateful-to-have-completed-my-phd-honored-by-the-journey-shaped-by-mentors-and-humbled-by-how-much-more-there-is-to-learn",
+          title: '🎓 Grateful to have completed my PhD. Honored by the journey, shaped by...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
