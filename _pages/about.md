@@ -31,7 +31,7 @@ With a dual background in pharmacy and computational biology, I focus on integra
 
 My research centers on developing **knowledge-aware computational frameworks**—including patient-specific gene regulatory modeling, graph-based learning, and multi-modal molecular representation—to improve therapeutic prediction, compound prioritization, and drug-likeness evaluation. These efforts prioritize model interpretability, translational generalizability, and the principled incorporation of domain knowledge into data-driven systems.
 
-You can see my academic CV attached [here](/assets/pdf/Bang_Academic_CV_Jul25.pdf).
+You can see my academic CV attached [here](/assets/pdf/Bang_Academic_CV.pdf).
 
 <!-- 
 Besides, I also care about the reproducibility of research results and reusable analysis procedures. I implement it by modularizing routine analyses as self-contained analysis pipelines with workflow management tools, especially with snakemake!

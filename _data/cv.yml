@@ -8,12 +8,12 @@
     - name: Languages
       value: English, Korean
     - name: Summary
-      value: PharmD, PhD in Bioinfomatics, with interest in AI for medicine and drug discovery
+      value: PharmD, PhD in Bioinformatics, exploring how AI can reshape medicine and drug discovery.
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Bioinformatics (August, 2025)
+    - title: PhD in Bioinformatics
       institution: Seoul National University, Seoul, Republic of Korea
       year: 2025
       description:
